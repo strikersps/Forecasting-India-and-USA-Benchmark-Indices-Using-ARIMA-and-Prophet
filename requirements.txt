@@ -1,0 +1,5 @@
+quandl
+yfinance
+investpy
+pmdarima
+fbprophet

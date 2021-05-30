@@ -18,7 +18,7 @@ This study forecasts the close value and volatility dynamics of S&P BSE SENSEX o
 To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index value for the S&P BSE
 SENSEX and S&P-500 time series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
 
-`SARIMAX(2, 0, 0)×(2, 0, 0, 7)` for S&P BSE SENSEX and `SARIMAX(5, 1, 1) × (2, 0, 1, 7)` for S&P-500 yielded promising results with a MAPE of `4.05%` and `0.61%`.  
+`SARIMAX (2, 0, 0)×(2, 0, 0, 7)` for S&P BSE SENSEX and `SARIMAX (5, 1, 1) × (2, 0, 1, 7)` for S&P-500 yielded promising results with a MAPE of `4.05%` and `0.61%`.  
 Prophet based models has performed better than both the ARIMA models when forecasting S&P BSE SENSEX and S&P-500 with MAPE of `1.06%` and `0.62%`.
 
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
@@ -31,7 +31,7 @@ The datasets are collected using either the library or by [Yahoo Finance website
 |------| ------------- | ----------- |------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |
-|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder| 
+|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 
 |4 | CBOE VIX | 1990-2020 | `investpy` library |
 
 `investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 

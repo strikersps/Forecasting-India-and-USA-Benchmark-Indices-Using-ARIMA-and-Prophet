@@ -11,7 +11,7 @@
 
 ![Dalal Street and Wall Street Photo](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/Dalal-and-Wall-Street.jpg)
 
-# Introduction  
+## Introduction  
 Time Series is a class of data science problems where the primary values of interest are a series of data points measured over a period of time or recorded over a regular intervals of time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the timeseries models.  
 
 This study forecasts the close value and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New-York Stock Exchange (NYSE).  
@@ -26,7 +26,7 @@ The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tu
 
 **For explaination of the project refer to the [report](https://drive.google.com/file/d/1GK9MtzTQL6aPFsGvToHRVVIaZq0fO8xP/view?usp=sharing) and [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
 
-# Datasets
+## Datasets
 The datasets are collected using either the library or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
 |Sr. No | Dataset Name  | Time Period | Source |
@@ -38,7 +38,7 @@ The datasets are collected using either the library or by [Yahoo Finance website
 
 `investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 
 
-# How to Execute  
+## How to Execute  
    * **Dependencies**  
     The project has dependencies on the following libraries so make sure you have installed those libraries using `pip` package manager using command `python3 -m pip install -r requirements.txt`.  
     1. `quandl`  
@@ -53,5 +53,5 @@ To execute the jupyter notebook click on the ***Open In Colab*** badge/shield ab
 
     **Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)
 
-# License
+## License
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=for-the-badge)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/LICENSE)

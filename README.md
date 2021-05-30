@@ -11,7 +11,23 @@
 
 ![Dalal Street and Wall Street Photo](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/Dalal-and-Wall-Street.jpg)
 
-**NOTE:** To execute the jupyter notebook click on the ***Open In Colab*** badge/shield above [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) and the runtime is around **3 Hrs** if you want to run all the cells again.
+# Introduction  
+The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
+)
+
+# How to Execute  
+   * **Dependencies**  
+    The project has dependencies on the following libraries so make sure you have installed those libraries using `pip` package manager using command `python3 -m pip install -r requirements.txt`.  
+    1. `quandl`  
+    2. `investpy`  
+    3. `yfinance`  
+    4. `pmdarima`  
+    5. `fbprophet`  
+    If you get any error regarding `auto_arima()` method of `pmdadrima.arima` submodule then first uninstall the older version of `statsmodels` library and current installation of `pmdarima` and then again install `pmdarima`, no need to install `statsmodels` library as `pmdarima` has a dependency on `statsmodels` which gets automatically installed during the `pmdarima` installation process.
+
+* **Execution Steps**  
+To execute the jupyter notebook click on the ***Open In Colab*** badge/shield above [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) and the runtime is around **3 Hrs** if you want to run all the cells again.
+
 
 # License
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=for-the-badge)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/LICENSE)

@@ -51,7 +51,8 @@ The datasets are collected using either the library or by [Yahoo Finance website
 * **Execution Steps**  
 To execute the jupyter notebook click on the ***Open In Colab*** badge/shield above [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) and the runtime is around **3 Hrs** if you want to run all the cells again.
 
-    **Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)
+If you have some problems while executing the Google Colab notebook then consider executing it directly through the following Google Drive link.  
+**Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)
 
 ## License
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=for-the-badge)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/LICENSE)

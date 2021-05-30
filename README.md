@@ -24,6 +24,8 @@ Prophet based models has performed better than both the ARIMA models when foreca
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
 )
 
+**For explaination of the project refer to the [report](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/BLENP2DSC20038-Latex-Based-Project-Report.pdf) and [presentation](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/BLENP2DSC20038-TSA-and-RM-Project-Presentation.pdf) files present in the repository.**
+
 # Datasets
 The datasets are collected using either the library or by [Yahoo Finance website](https://finance.yahoo.com/).  
 

@@ -24,7 +24,17 @@ Prophet based models has performed better than both the ARIMA models when foreca
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
 )
 
+# Datasets
+The datasets are collected using either the library or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
+|Sr. No | Dataset Name  | Time Period | Source |
+|------| ------------- | ----------- |------ |
+|1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
+|2 | India VIX  | 2008-2020 | `investpy` library  |
+|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `.csv` file in Datasets folder| 
+|4 | CBOE VIX | 1990-2020 | `investpy` library |
+
+`investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 
 
 # How to Execute  
    * **Dependencies**  

@@ -24,7 +24,7 @@ Prophet based models has performed better than both the ARIMA models when foreca
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
 )
 
-**For explaination of the project refer to the [report](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/BLENP2DSC20038-Latex-Based-Project-Report.pdf) and [presentation](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/BLENP2DSC20038-TSA-and-RM-Project-Presentation.pdf) files present in the repository.**
+**For explaination of the project refer to the [report](https://drive.google.com/file/d/1GK9MtzTQL6aPFsGvToHRVVIaZq0fO8xP/view?usp=sharing) and [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
 
 # Datasets
 The datasets are collected using either the library or by [Yahoo Finance website](https://finance.yahoo.com/).  
@@ -51,6 +51,7 @@ The datasets are collected using either the library or by [Yahoo Finance website
 * **Execution Steps**  
 To execute the jupyter notebook click on the ***Open In Colab*** badge/shield above [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) and the runtime is around **3 Hrs** if you want to run all the cells again.
 
+    **Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)
 
 # License
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=for-the-badge)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/LICENSE)

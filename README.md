@@ -49,7 +49,7 @@ The datasets are collected using either the library i.e. `quandl, investpy` or b
     If you get any error regarding `auto_arima()` method of `pmdadrima.arima` submodule then first uninstall the older version of `statsmodels` library and current installation of `pmdarima` and then again install `pmdarima`, no need to install `statsmodels` library as `pmdarima` has a dependency on `statsmodels` which gets automatically installed during the `pmdarima` installation process.
 
 * **Execution Steps**  
-To execute the jupyter notebook click on the ***Open In Colab*** badge/shield above [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) and the runtime is around **3 Hrs** if you want to run all the cells again.
+To execute the jupyter notebook click on [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19I3GRRTxayNGI_QF6kzAeBcfp6L8lGA-?usp=sharing) badge/shield and do remember that the runtime is around **3 Hrs** if you want to run all the cells again.
 
 If you have some problems while executing the Google Colab notebook then consider executing it directly through the following Google Drive link.  
 **Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)

@@ -27,13 +27,13 @@ The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tu
 **For explaination of the project refer to the [report](https://drive.google.com/file/d/1GK9MtzTQL6aPFsGvToHRVVIaZq0fO8xP/view?usp=sharing) and [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
 
 ## Datasets
-The datasets are collected using either the library or by [Yahoo Finance website](https://finance.yahoo.com/).  
+The datasets are collected using either the library i.e. `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
 |Sr. No | Dataset Name  | Time Period | Source |
 |------| ------------- | ----------- |------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |
-|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 
+|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 
 |4 | CBOE VIX | 1990-2020 | `investpy` library |
 
 `investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 

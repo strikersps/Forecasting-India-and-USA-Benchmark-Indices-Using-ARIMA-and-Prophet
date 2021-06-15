@@ -36,7 +36,7 @@ The datasets are collected using either the library i.e. `quandl, investpy` or b
 |3 | S&P-500 | 2000-2020 | [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 
 |4 | CBOE VIX | 1990-2020 | `investpy` library |
 
-`investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 
+* `investpy` is a really good library which most people don't know about and it provides financial data for almost all the indexed finacial product/asset. 
 
 ## How to Execute  
    * **Dependencies**  

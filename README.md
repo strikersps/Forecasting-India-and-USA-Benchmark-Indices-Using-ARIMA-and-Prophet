@@ -24,7 +24,7 @@ Prophet based models has performed better than both the ARIMA models when foreca
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
 )
 
-**For explaination of the project refer to the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
+**For explaination of the project refer to the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing).**
 
 ## 2. Datasets
 The datasets are collected using either the library i.e. `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  

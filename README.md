@@ -7,7 +7,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet.svg)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/graphs/contributors)
 [![Issues-Badge](https://img.shields.io/github/issues/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=plastic)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/issues)
 [![Stars-Badge](https://img.shields.io/github/stars/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=plastic)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/stargazers)
-[![Fork-Badge](https://img.shields.io/github/forks/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=plastic)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/network/members)  
+[![Fork-Badge](https://img.shields.io/github/forks/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet?style=plastic) (https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/network/members)  
 
 ![Dalal Street and Wall Street Photo](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/Dalal-and-Wall-Street.jpg)
 
@@ -24,13 +24,13 @@ Prophet based models has performed better than both the ARIMA models when foreca
 The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial
 )
 
-**For explaination of the project refer to the [report](https://drive.google.com/file/d/1GK9MtzTQL6aPFsGvToHRVVIaZq0fO8xP/view?usp=sharing) and [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
+**For explaination of the project refer to the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing) files.**
 
 ## 2. Datasets
 The datasets are collected using either the library i.e. `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
 |Sr. No | Dataset Name  | Time Period | Source |
-|------| ------------- | ----------- |------ |
+|:------:| ------------- | ----------- |------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |
 |3 | S&P-500 | 2000-2020 | [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 

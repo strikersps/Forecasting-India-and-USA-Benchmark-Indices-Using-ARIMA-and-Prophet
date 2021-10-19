@@ -1,4 +1,4 @@
-# Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet
+# Forecasting India S&P BSE SENSEX and USA S&P-500 Using ARIMA and Prophet
 
 [![forthebadge made-with-python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) 
 ![Repo-Size](https://img.shields.io/github/repo-size/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet?color=%23ff0000&style=for-the-badge)
@@ -14,11 +14,11 @@
 ## 1. Introduction  
 - Time Series is a class of data science problems where the primary values of interest are a series of data points measured over a period of time or recorded over a regular intervals of time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the timeseries models. 
 
-- This study forecasts the close value and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New-York Stock Exchange (NYSE).  
+- This study forecasts the close index values and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New York Stock Exchange (NYSE).  
 To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index value for the S&P BSE
-SENSEX and S&P-500 time series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
+SENSEX and S&P-500 time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
 
-- `SARIMAX (2, 0, 0) × (2, 0, 0, 7)` for S&P BSE SENSEX and `SARIMAX (5, 1, 1) × (2, 0, 1, 7)` for S&P-500 have given promising results with a Mean-Absolute-Percentage-Error (MAPE) of `4.05%` and `0.61%`.  
+- `SARIMAX (2, 0, 0) × (2, 0, 0, 7)` for India S&P BSE SENSEX and `SARIMAX (5, 1, 1) × (2, 0, 1, 7)` for USA S&P-500 have given promising results with a Mean-Absolute-Percentage-Error (MAPE) of `4.05%` and `0.61%`.  
 Prophet based models has performed better than both the ARIMA models when forecasting S&P BSE SENSEX and S&P-500 with MAPE of `1.06%` and `0.62%`.
 
 - The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial)

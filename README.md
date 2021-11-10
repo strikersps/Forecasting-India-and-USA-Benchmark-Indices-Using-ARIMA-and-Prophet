@@ -12,11 +12,11 @@
 ![Dalal Street and Wall Street Photo](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/Dalal-and-Wall-Street.jpg)
 
 ## 1. Introduction  
-- Time Series is a class of data science problems where the primary values of interest are a series of data points measured over a period of time or recorded over a regular intervals of time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the timeseries models. 
+- The goal of Time Series Analysis and Forecasting is to deal with the class of data science problems where the primary values of interest are a sequence of data points measured over a period of time or recorded over a regular intervals of time or which are equally spaced in time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the timeseries models. 
 
-- This study forecasts the close index values and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New York Stock Exchange (NYSE).  
+- This study forecasts the index close values and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New York Stock Exchange (NYSE).  
 
-- To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index value for the S&P BSE SENSEX and S&P-500 financial time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
+- To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index values for the S&P BSE SENSEX and S&P-500 financial time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
 
 - `SARIMAX (2, 0, 0) × (2, 0, 0, 7)` for India S&P BSE SENSEX and `SARIMAX (5, 1, 1) × (2, 0, 1, 7)` for USA S&P-500 have given realiable results with a Mean-Absolute-Percentage-Error (MAPE) of `4.05%` and `0.61%` respectively. 
 
@@ -28,7 +28,7 @@
 - The financial time series datasets are collected using either the libraries such as `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
 |Sr. No | Dataset Name  | Time Period | Source |
-|:------:| ------------- | ----------- |------ |
+|:------:| :-------------: | :-----------: | :------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |
 |3 | S&P-500 | 2000-2020 | [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 

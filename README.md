@@ -27,7 +27,7 @@
 ## 2. Datasets
 - The financial time series datasets are collected using either the libraries such as `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
-|Sr. No | Dataset Name  | Time Period | Source |
+|Sr. No | Dataset Name  | Time Period | Source of Dataset (Library/Website)|
 |:------:| :-------------: | :-----------: | :------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |

@@ -12,11 +12,11 @@
 ![Dalal Street and Wall Street Photo](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/Dalal-and-Wall-Street.jpg)
 
 ## 1. Introduction  
-- The goal of Time Series Analysis and Forecasting is to deal with the class of data science problems where the primary values of interest are a sequence of data points measured over a period of time or recorded over a regular intervals of time or which are equally spaced in time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the timeseries models. 
+- The goal of Time Series Analysis and Forecasting is to deal with the class of data science problems where the primary values of interest are a sequence of data points measured over a period of time or recorded over regular intervals of time or which are equally spaced in time and we want to forecast either a single measurement (univariate) or multiple measurements (multi-variate) using the time-series models. 
 
 - This study forecasts the index close values and volatility dynamics of S&P BSE SENSEX of Bombay Stock Exchange (BSE) and S&P-500 of New York Stock Exchange (NYSE).  
 
-- To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index values for the S&P BSE SENSEX and S&P-500 financial time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in Python programming language.  
+- To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The analysis forecasts daily index values for the S&P BSE SENSEX and S&P-500 financial time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in the Python programming language.  
 - `SARIMAX (2, 0, 0) × (2, 0, 0, 7)` for India S&P BSE SENSEX and `SARIMAX (5, 1, 1) × (2, 0, 1, 7)` for USA S&P-500 have given realiable results with a Mean-Absolute-Percentage-Error (MAPE) of `4.05%` and `0.61%` respectively. 
 
 - Prophet-based models have performed better than both the SARIMAX models when forecasting daily values for S&P BSE SENSEX and S&P-500 with Mean Average Percentage Error (MAPE) of `1.06%` and `0.62%` respectively.

@@ -30,8 +30,8 @@
 |Sr. No | Dataset Name  | Time Period | Source of Dataset|
 |:------:| :-------------: | :-----------: | :------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | Refer `sensex_data_2001_2020.csv` file in `./Datasets/` directory|
-|2 | India VIX  | 2008-2020 | Refer `india_vix_data_2008_2020.csv` file in `./Datasets/` directory|
-|3 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `./Datasets/` directory| 
+|2 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `./Datasets/` directory| 
+|3 | India VIX  | 2008-2020 | Refer `india_vix_data_2008_2020.csv` file in `./Datasets/` directory|
 |4 | CBOE VIX | 1990-2020 | Refer `cboe_data_1990_2020.csv` file in the `./Datasets/` directory|
 
 - Although the `*.csv` files present in the `./Datasets/` directory consists of the corresponding datasets, those `./Datasets/*.csv` files are exported from pandas dataframes which are created as a result of accessing the data from `quandle`, `yahoo`, and `investpy` websites/libraries using `DataFrame.to_csv()` method. 

@@ -27,12 +27,14 @@
 ## 2. Datasets
 - The financial time series datasets are collected using either the libraries such as `quandl, investpy` or by [Yahoo Finance website](https://finance.yahoo.com/).  
 
-|Sr. No | Dataset Name  | Time Period | Source of Dataset (Library/Website)|
+|Sr. No | Dataset Name  | Time Period | Source of Dataset|
 |:------:| :-------------: | :-----------: | :------ |
-|1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
-|2 | India VIX  | 2008-2020 | `investpy` library  |
-|3 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `Datasets/` folder or [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1)| 
-|4 | CBOE VIX | 1990-2020 | `investpy` library |
+|1 | S&P BSE SENSEX  | 2000-2020 | Refer `sensex_data_2001_2020.csv` file in `./Datasets/` directory|
+|2 | India VIX  | 2008-2020 | Refer `india_vix_data_2008_2020.csv` file in `./Datasets/` directory|
+|3 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `./Datasets/` directory| 
+|4 | CBOE VIX | 1990-2020 | Refer `cboe_data_1990_2020.csv` file in the `./Datasets/` directory|
+
+- Although the `*.csv` files present in the `./Datasets/` directory consists of the corresponding datasets, those `./Datasets/*.csv` files are exported from pandas dataframes using `DataFrame.to_csv()` method which are created as a result of accessing the data from `quandle`, `yahoo`, and `investpy` websites/libraries. 
 
 - `investpy` is a really good library which most people don't know about and it provides financial time series data for almost all the indexed financial products/assets which belong to different asset classes which are covered by [https://www.investing.com/](https://www.investing.com/) website. 
 

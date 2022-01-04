@@ -34,7 +34,7 @@
 |3 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `./Datasets/` directory| 
 |4 | CBOE VIX | 1990-2020 | Refer `cboe_data_1990_2020.csv` file in the `./Datasets/` directory|
 
-- Although the `*.csv` files present in the `./Datasets/` directory consists of the corresponding datasets, those `./Datasets/*.csv` files are exported from pandas dataframes using `DataFrame.to_csv()` method which are created as a result of accessing the data from `quandle`, `yahoo`, and `investpy` websites/libraries. 
+- Although the `*.csv` files present in the `./Datasets/` directory consists of the corresponding datasets, those `./Datasets/*.csv` files are exported from pandas dataframes which are created as a result of accessing the data from `quandle`, `yahoo`, and `investpy` websites/libraries using `DataFrame.to_csv()` method. 
 
 - `investpy` is a really good library which most people don't know about and it provides financial time series data for almost all the indexed financial products/assets which belong to different asset classes which are covered by [https://www.investing.com/](https://www.investing.com/) website. 
 

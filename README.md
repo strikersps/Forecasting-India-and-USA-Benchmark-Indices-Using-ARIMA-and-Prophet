@@ -30,7 +30,7 @@
 |:------:| :-------------: | :-----------: | :------ |
 |1 | S&P BSE SENSEX  | 2000-2020 | `quandl` library  |
 |2 | India VIX  | 2008-2020 | `investpy` library  |
-|3 | S&P-500 | 2000-2020 | [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1) or Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in Datasets folder.| 
+|3 | S&P-500 | 2000-2020 | Refer `S&P-500-Price-Action-Historical-Prices-Dataset.csv` file in `Datasets/` folder or [Yahoo Finance Website: S&P-500 Price Dataset](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC&guccounter=1)| 
 |4 | CBOE VIX | 1990-2020 | `investpy` library |
 
 - `investpy` is a really good library which most people don't know about and it provides financial time series data for almost all the indexed financial products/assets which belong to different asset classes which are covered by [https://www.investing.com/](https://www.investing.com/) website. 

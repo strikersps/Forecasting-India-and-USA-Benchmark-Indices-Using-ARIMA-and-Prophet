@@ -18,7 +18,7 @@
 
 - To achieve the objectives, the study uses descriptive statistics, statistical tests including Augmented Dickey-Fuller for checking the stationarity of the underlying time series data before modeling. The developed models forecasts daily close values for the S&P BSE SENSEX and S&P-500 financial time-series data using the ARIMA model and a suite of time series models provided by a Prophet library developed by Facebook especially for forecasting time series data in the Python programming language.
 
-- Prophet-based models have performed better than both the SARIMAX models when forecasting daily values for S&P BSE SENSEX and S&P-500 with Mean Average Percentage Error (MAPE) of `1.06%` and `0.62%` respectively.
+- Prophet-based models have performed better than the corresponding SARIMAX models when forecasting daily close values for S&P BSE SENSEX and S&P-500 with Mean Average Percentage Error (MAPE) of `1.06%` and `0.62%` respectively.
 
 ![SARIMAX-Prophet-Daily-Close-Predictions-SENSEX](https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/SARIMAX-Prophet-SENSEX-Predictions.png)
 ![SARIMAX-Prophet-Daily-Close-Predictions-S&P-500](https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/SARIMAX-Prophet-S%26P-500-Predictions.png)

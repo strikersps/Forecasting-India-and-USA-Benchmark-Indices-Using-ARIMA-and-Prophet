@@ -20,6 +20,9 @@
 
 - Prophet-based models have performed better than both the SARIMAX models when forecasting daily values for S&P BSE SENSEX and S&P-500 with Mean Average Percentage Error (MAPE) of `1.06%` and `0.62%` respectively.
 
+- ![SARIMAX-Prophet-Daily-Close-Predictions-SENSEX](https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/SARIMAX-Prophet-SENSEX-Predictions.png)
+- ![SARIMAX-Prophet-Daily-Close-Predictions-S&P-500](https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/SARIMAX-Prophet-S%26P-500-Predictions.png)
+
 - The project is inspired by the Kaggle Notebook titled [**A Modern Time Series Tutorial by Rohan Rao.**](https://www.kaggle.com/rohanrao/a-modern-time-series-tutorial)
 
 ## 2. Datasets

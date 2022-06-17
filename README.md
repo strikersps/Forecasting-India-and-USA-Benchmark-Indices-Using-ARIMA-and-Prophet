@@ -55,7 +55,23 @@
   - If you have some problems while executing the Google Colab notebook then consider executing it directly through the following Google Drive link.  
 **Google Drive Link:** [**Forecasting S&P BSE SENSEX and S&P-500 Using ARIMA and Prophet.**](https://drive.google.com/drive/folders/17RuDveL9qG37_gbPA2vmt_7HgxCipuMA?usp=sharing)  
 
-**NOTE:** **For project explaination, refer the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing).**
+**NOTE:** **For project explaination, refer the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing).**  
+
+## 4. Publications Based On The Repository:
+1. [**S. P. Sharma, J. R. and K. Deepa, "Forecasting India S&P BSE SENSEX and USA S&P-500 Benchmark Indices Using SARIMAX and Facebook Prophet Library," 2022 6th International Conference on Intelligent Computing and Control Systems (ICICCS), 2022, pp. 1523-1530, doi: 10.1109/ICICCS53718.2022.9788127.**](https://ieeexplore.ieee.org/document/9788127)
+
+```bibtex
+@inproceedings{9788127,
+	title        = {Forecasting India S&P BSE SENSEX and USA S&P-500 Benchmark Indices Using SARIMAX and Facebook Prophet Library},
+	author       = {Sharma, Suraj Prakash and R., Jeyanthi and Deepa, K.},
+	year         = 2022,
+	booktitle    = {2022 6th International Conference on Intelligent Computing and Control Systems (ICICCS)},
+	volume       = {},
+	number       = {},
+	pages        = {1523--1530},
+	doi          = {10.1109/ICICCS53718.2022.9788127}
+}
+```
 
 ###### GNU General Public License v3.0  
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet?style=for-the-badge&color=red)](Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/LICENSE)

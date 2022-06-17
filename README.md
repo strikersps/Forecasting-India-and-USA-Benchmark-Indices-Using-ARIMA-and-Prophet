@@ -58,4 +58,4 @@
 **NOTE:** **For project explaination, refer the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing).**
 
 ###### GNU General Public License v3.0  
-[![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet?color=red&style=for-the-badge)](https://github.com/strikersps/Forecasting-BSE-SENSEX-and-S-and-P-500-Using-ARIMA-and-Prophet/blob/main/LICENSE)
+[![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet?color=red&style=for-the-badge)](Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/LICENSE)

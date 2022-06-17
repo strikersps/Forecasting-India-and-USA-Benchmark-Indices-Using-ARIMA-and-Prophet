@@ -57,7 +57,7 @@
 
 **NOTE:** **For project explaination, refer the [presentation](https://drive.google.com/file/d/1wo6zmQd_fzlPBcW3QkmqXxgmvAEN0z9g/view?usp=sharing).**  
 
-## 4. Publications Based On The Repository:
+## 4. Publications Based on the Work
 1. [**S. P. Sharma, J. R. and K. Deepa, "Forecasting India S&P BSE SENSEX and USA S&P-500 Benchmark Indices Using SARIMAX and Facebook Prophet Library," 2022 6th International Conference on Intelligent Computing and Control Systems (ICICCS), 2022, pp. 1523-1530, doi: 10.1109/ICICCS53718.2022.9788127.**](https://ieeexplore.ieee.org/document/9788127)
 
 ```bibtex

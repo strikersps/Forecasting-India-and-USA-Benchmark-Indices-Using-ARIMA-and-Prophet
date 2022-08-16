@@ -72,7 +72,7 @@
 	doi          = {10.1109/ICICCS53718.2022.9788127}
 }
 ```
-##### NOTE: To cite our work, please add the above bibtex information into your `*.bib` file in the latex environment.
+##### NOTE: To cite our work, please add the above block of code into your `*.bib` file in the latex environment and if you want to cite this repository, then please copy the meta-data information from `cite this repository` option below the **About** section of the repository.
 
 ###### GNU General Public License v3.0  
 [![License-Badge](https://img.shields.io/github/license/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet?style=for-the-badge&color=red)](Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet/blob/main/LICENSE)

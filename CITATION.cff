@@ -5,6 +5,5 @@ authors:
   given-names: "Suraj Sharma"
 title: "Forecasting India S&P BSE SENSEX and USA S&P-500 Benchmark Indices Using ARIMA and Prophet"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2022-08-16
 url: "https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet"

@@ -6,4 +6,5 @@ authors:
 title: "Forecasting India S&P BSE SENSEX and USA S&P-500 Benchmark Indices Using ARIMA and Prophet"
 version: 1.0.0
 date-released: 2022-08-16
+doi: 10.1109/ICICCS53718.2022.9788127
 url: "https://github.com/strikersps/Forecasting-India-and-USA-Benchmark-Indices-Using-ARIMA-and-Prophet"
